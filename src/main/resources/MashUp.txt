@@ -1,0 +1,434 @@
+{
+    "mashup": {
+        "financialMetric": {
+            "financialMetricDetails": {
+                "financialMetricDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "currentRatioTTM": 10.27179,
+                        "debtToTotCapTTM": 25.91279,
+                        "intCoverageMRQ": -48.72,
+                        "longTermDebtToEquityTTM": 32.66422,
+                        "profitMargin": -637.01799
+                    }
+                ]
+            }
+        },
+        "marketSentiment": {
+            "sentimentDetails": [
+                {
+                    "symbol": "IBIO",
+                    "shortTermDirection": "Bullish",
+                    "shortTermScore": 19,
+                    "intermediateTermDirection": "Bullish",
+                    "intermediateTermScore": 3,
+                    "longTermDirection": "Bearish",
+                    "longTermScore": -2,
+                    "addlInfoLink": "https://research2relay.fidelity.wallst.com/fidelity/research/reports/release2/Research/Recognia.asp",
+                    "timestamp": 1660190400
+                }
+            ]
+        },
+        "valuation": {
+            "valuationDetails": {
+                "valuationDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "equityDetail": {
+                            "priceToBookTTM": 0.60866,
+                            "priceToSalesTTM": 20.39149
+                        }
+                    }
+                ]
+            }
+        },
+        "analystOpinion": {
+            "analystOpinionDetails": {
+                "analystOpinionDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "equitySummDetail": {
+                            "scoreDate": "--",
+                            "scoreNumFirms": 2,
+                            "consensusHistDetails": {
+                                "consensusHistDetail": [
+                                    {
+                                        "numAnalysts": 1,
+                                        "rating": 2,
+                                        "ratingText": "Buy",
+                                        "startDate": "06/03/10"
+                                    }
+                                ]
+                            },
+                            "priorScoreHistDetails": {
+                                "priorScoreHistDetail": [
+                                    {
+                                        "timePeriod": "1 Week",
+                                        "scoreDate": "08/04/22"
+                                    },
+                                    {
+                                        "timePeriod": "1 Month",
+                                        "scoreDate": "07/09/22"
+                                    },
+                                    {
+                                        "timePeriod": "3 Month",
+                                        "scoreDate": "05/11/22"
+                                    },
+                                    {
+                                        "timePeriod": "1 Year",
+                                        "scoreDate": "08/11/21"
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            },
+            "disclosure": "The Equity Summary Score provided by StarMine from Refinitiv is current as of the date specified. There may be differences between the Equity Summary Score analyst count and the number of underlying analysts listed. Due to the timing in receiving ratings changes into the Equity Summary Score model, the Equity Summary Score analyst count may lag the ratings count displayed by one or more days. There may also be analyst count variations for symbols with multiple share classes and ADRs. More details on Equity Summary Score calculation are included in the Understanding and Using the Equity Summary Score Methodology (PDF)."
+        },
+        "ownership": {
+            "ownershipDetails": {
+                "ownershipDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "institOwnership": 18.6497,
+                        "sharesOut": 218166000,
+                        "vol10dAvg": 1818580,
+                        "vol90dAvg": 2553910
+                    }
+                ]
+            }
+        },
+        "returnsPerformance": {
+            "returnsPerfDetails": {
+                "returnsPerformanceDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "beta1Yr": 0.59186,
+                        "beta3Yr": -5.94411,
+                        "pricePerf12MthAgo": -79.64615,
+                        "pricePerfAOD": "08/10/22",
+                        "returnOnEquityTTM": -35.1205,
+                        "totalReturn1Yr": -79.64615,
+                        "totalReturn3Yr": -27.69571,
+                        "totalReturn5Yr": -38.75582
+                    }
+                ]
+            }
+        },
+        "basicFact": {
+            "basicFactDetails": {
+                "basicFactDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "equityDetail": {
+                            "numEmployees": 75,
+                            "epsTTM": -0.15,
+                            "epsTTMAOD": "03/31/22",
+                            "industry": "Biotechnology",
+                            "sector": "Health Care",
+                            "mktCap": 57726720,
+                            "isOptionable": "Yes",
+                            "revenueAOD": "03/31/22",
+                            "revenueTTM": 2829000,
+                            "companyDesc": "iBio, Inc., a biotechnology company, provides contract development and manufacturing services to collaborators and third-party customers in the United States. The company operates in two segments: Biopharmaceuticals and Bioprocessing. Its lead therapeutic candidate is IBIO-100 that is being advanced for investigational new drug development for the treatment of systemic scleroderma and idiopathic pulmonary fibrosis. The company is also developing vaccine candidates comprising IBIO-200 and IBIO-201, which are in preclinical development for the prevention of severe acute respiratory syndrome coronavirus 2; and IBIO-400 for the treatment of classical swine fever. In addition, it is developing recombinant proteins for third parties on a catalog and custom basis; and offers a range of process development, manufacturing, filling and finishing, and bio analytic services. iBio, Inc. has a license agreement with Planet Biotechnology, Inc. to develop therapeutics for infectious diseases; collaboration agreement with The Texas A&M University System for the development of coronavirus disease 2019 vaccine candidates; license agreement with the University of Natural Resources and Life Sciences, Vienna; and collaboration agreement with CC-Pharming Ltd. The company is headquartered in Bryan, Texas."
+                        }
+                    }
+                ]
+            }
+        },
+        "dividend": {
+            "dividendDetails": {
+                "dividendDetail": [
+                    {
+                        "equityDetail": {
+                            "announceDate": "--",
+                            "exDivDate": "--",
+                            "payoutRatioMRQ": 0,
+                            "divHistDetails": {
+                                "divHistDetail": [
+                                    {
+                                        "announceDate": "--",
+                                        "payDate": "--",
+                                        "exDate": "--",
+                                        "recordDate": "--",
+                                        "currency": "USD",
+                                        "exDateCalQtr": "Q2",
+                                        "exDateCalYr": 1810
+                                    }
+                                ]
+                            },
+                            "statusDate": "--"
+                        },
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        }
+                    }
+                ]
+            }
+        },
+        "distributions": {
+            "distributionDetails": {
+                "distributionDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        }
+                    }
+                ]
+            }
+        },
+        "portfolioComposition": {
+            "portfolioCompositionDetails": {
+                "portfolioCompositionDetail": [
+                    {
+                        "sysMsgs": {
+                            "sysMsg": [
+                                {
+                                    "type": "Warning",
+                                    "code": 2999,
+                                    "message": "Other",
+                                    "detail": "Requested: IBIO, Message: Error_02 - The requested data is not available for this security type",
+                                    "source": "PortfolioComposition"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "earning": {
+            "earningDetails": {
+                "earningDetail": [
+                    {
+                        "secDetail": {
+                            "requested": "IBIO",
+                            "classification": "Common Stock",
+                            "classificationType": "Common Stock",
+                            "symbol": "IBIO",
+                            "CUSIP": "451033203"
+                        },
+                        "qtrHistDetails": {
+                            "qtrHistDetail": [
+                                {
+                                    "fiscalQtr": 4,
+                                    "fiscalYr": 2020,
+                                    "endDate": "06/30/2020",
+                                    "reportDate": "10/13/2020",
+                                    "consensusEst": -0.05,
+                                    "highEst": -0.05,
+                                    "lowEst": -0.05,
+                                    "numAnalysts": 1,
+                                    "gaapEPS": -0.03,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 1,
+                                    "fiscalYr": 2021,
+                                    "endDate": "09/30/2020",
+                                    "reportDate": "11/16/2020",
+                                    "adjustedEPS": -0.05,
+                                    "consensusEst": -0.08,
+                                    "highEst": -0.08,
+                                    "lowEst": -0.08,
+                                    "numAnalysts": 1,
+                                    "actEPS": -0.05,
+                                    "gaapEPS": -0.05,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 2,
+                                    "fiscalYr": 2021,
+                                    "endDate": "12/31/2020",
+                                    "reportDate": "02/16/2021",
+                                    "adjustedEPS": -0.04,
+                                    "consensusEst": -0.04,
+                                    "highEst": -0.04,
+                                    "lowEst": -0.04,
+                                    "numAnalysts": 1,
+                                    "starmineEst": -0.04,
+                                    "actEPS": -0.04,
+                                    "gaapEPS": -0.04,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 3,
+                                    "fiscalYr": 2021,
+                                    "endDate": "03/31/2021",
+                                    "reportDate": "05/17/2021",
+                                    "adjustedEPS": -0.04,
+                                    "consensusEst": -0.05,
+                                    "highEst": -0.05,
+                                    "lowEst": -0.05,
+                                    "numAnalysts": 1,
+                                    "actEPS": -0.04,
+                                    "gaapEPS": -0.04,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 4,
+                                    "fiscalYr": 2021,
+                                    "endDate": "06/30/2021",
+                                    "reportDate": "09/27/2021",
+                                    "numAnalysts": 0,
+                                    "gaapEPS": 0,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 1,
+                                    "fiscalYr": 2022,
+                                    "endDate": "09/30/2021",
+                                    "reportDate": "11/15/2021",
+                                    "adjustedEPS": -0.04,
+                                    "consensusEst": -0.05,
+                                    "highEst": -0.05,
+                                    "lowEst": -0.05,
+                                    "numAnalysts": 1,
+                                    "starmineEst": -0.05,
+                                    "actEPS": -0.04,
+                                    "earningsResultText": "exceeded",
+                                    "gaapEPS": -0.04,
+                                    "reportedEPSNonGAAP": -0.04,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 2,
+                                    "fiscalYr": 2022,
+                                    "endDate": "12/31/2021",
+                                    "reportDate": "02/14/2022",
+                                    "adjustedEPS": -0.05,
+                                    "consensusEst": -0.04,
+                                    "highEst": -0.04,
+                                    "lowEst": -0.04,
+                                    "numAnalysts": 2,
+                                    "starmineEst": -0.04,
+                                    "actEPS": -0.05,
+                                    "earningsResultText": "missed",
+                                    "gaapEPS": -0.05,
+                                    "reportedEPSNonGAAP": -0.05,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 3,
+                                    "fiscalYr": 2022,
+                                    "endDate": "03/31/2022",
+                                    "reportDate": "05/12/2022",
+                                    "adjustedEPS": -0.06,
+                                    "consensusEst": -0.055,
+                                    "highEst": -0.05,
+                                    "lowEst": -0.06,
+                                    "numAnalysts": 2,
+                                    "starmineEst": -0.06,
+                                    "actEPS": -0.06,
+                                    "earningsResultText": "missed",
+                                    "gaapEPS": -0.06,
+                                    "reportedEPSNonGAAP": -0.06,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                },
+                                {
+                                    "fiscalQtr": 4,
+                                    "fiscalYr": 2022,
+                                    "endDate": "06/30/2022",
+                                    "reportDate": "09/27/2022",
+                                    "consensusEst": -0.065,
+                                    "highEst": -0.06,
+                                    "lowEst": -0.07,
+                                    "numAnalysts": 2,
+                                    "starmineEst": -0.06502,
+                                    "wshReportTime": "--",
+                                    "wshTODCode": ""
+                                }
+                            ]
+                        },
+                        "annHistDetails": {
+                            "annHistDetail": [
+                                {
+                                    "consensusEst": -0.19,
+                                    "highEst": -0.19,
+                                    "lowEst": -0.19,
+                                    "numAnalysts": 1,
+                                    "fiscalPeriod": "PrevYr",
+                                    "fiscalYr": "06/30/21"
+                                },
+                                {
+                                    "consensusEst": -0.21,
+                                    "highEst": -0.2,
+                                    "lowEst": -0.22,
+                                    "numAnalysts": 2,
+                                    "fiscalPeriod": "CurrYr",
+                                    "fiscalYr": "06/30/22"
+                                },
+                                {
+                                    "consensusEst": -0.22,
+                                    "highEst": -0.21,
+                                    "lowEst": -0.23,
+                                    "numAnalysts": 2,
+                                    "fiscalPeriod": "NextYr",
+                                    "fiscalYr": "06/30/23"
+                                }
+                            ]
+                        },
+                        "announceDaysSince": 91,
+                        "announceDaysUntil": 47,
+                        "epsGrowthLast5Yr": -36.90427,
+                        "epsGrowthTTM": 6.25,
+                        "epsPrevQtrVsPrevYrQtr": -50,
+                        "projEPSGrowthCurrYrNextYr": -4.7619
+                    }
+                ]
+            }
+        }
+    }
+}

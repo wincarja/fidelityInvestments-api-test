@@ -1,0 +1,306 @@
+{
+    "topTrade": {
+        "tradeDetails": [
+            {
+                "symbol": "TSLA",
+                "sector": "Consumer Discretionary",
+                "totalOrderQty": 15432,
+                "totalBuyOrderQty": 7165,
+                "buysPct": 46.43,
+                "sellsPct": 53.57,
+                "timestamp": 1660161601,
+                "todaysChgPct": 3.8906
+            },
+            {
+                "symbol": "TQQQ",
+                "sector": "",
+                "totalOrderQty": 7869,
+                "totalBuyOrderQty": 3593,
+                "buysPct": 45.66,
+                "sellsPct": 54.34,
+                "timestamp": 1660162500,
+                "todaysChgPct": 8.2123
+            },
+            {
+                "symbol": "SQQQ",
+                "sector": "",
+                "totalOrderQty": 7050,
+                "totalBuyOrderQty": 3910,
+                "buysPct": 55.46,
+                "sellsPct": 44.54,
+                "timestamp": 1660162500,
+                "todaysChgPct": -8.1753
+            },
+            {
+                "symbol": "NVTA",
+                "sector": "Health Care",
+                "totalOrderQty": 6969,
+                "totalBuyOrderQty": 3054,
+                "buysPct": 43.82,
+                "sellsPct": 56.18,
+                "timestamp": 1660162200,
+                "todaysChgPct": 276.8559
+            },
+            {
+                "symbol": "NVDA",
+                "sector": "Information Technology",
+                "totalOrderQty": 6417,
+                "totalBuyOrderQty": 2728,
+                "buysPct": 42.51,
+                "sellsPct": 57.49,
+                "timestamp": 1660161601,
+                "todaysChgPct": 5.9171
+            },
+            {
+                "symbol": "AMD",
+                "sector": "Information Technology",
+                "totalOrderQty": 5747,
+                "totalBuyOrderQty": 2579,
+                "buysPct": 44.88,
+                "sellsPct": 55.12,
+                "timestamp": 1660161600,
+                "todaysChgPct": 3.6739
+            },
+            {
+                "symbol": "AMZN",
+                "sector": "Consumer Discretionary",
+                "totalOrderQty": 5607,
+                "totalBuyOrderQty": 2451,
+                "buysPct": 43.71,
+                "sellsPct": 56.29,
+                "timestamp": 1660161600,
+                "todaysChgPct": 3.5261
+            },
+            {
+                "symbol": "AMC",
+                "sector": "Communication Services",
+                "totalOrderQty": 5363,
+                "totalBuyOrderQty": 3034,
+                "buysPct": 56.57,
+                "sellsPct": 43.43,
+                "timestamp": 1660162200,
+                "todaysChgPct": 5.4343
+            },
+            {
+                "symbol": "MEGL",
+                "sector": "Financials",
+                "totalOrderQty": 5290,
+                "totalBuyOrderQty": 3194,
+                "buysPct": 60.38,
+                "sellsPct": 39.62,
+                "timestamp": 1660161600,
+                "todaysChgPct": -0.1623
+            },
+            {
+                "symbol": "AAPL",
+                "sector": "Information Technology",
+                "totalOrderQty": 4973,
+                "totalBuyOrderQty": 1904,
+                "buysPct": 38.29,
+                "sellsPct": 61.71,
+                "timestamp": 1660161600,
+                "todaysChgPct": 2.6195
+            },
+            {
+                "symbol": "BBBY",
+                "sector": "Consumer Discretionary",
+                "totalOrderQty": 4639,
+                "totalBuyOrderQty": 3017,
+                "buysPct": 65.04,
+                "sellsPct": 34.96,
+                "timestamp": 1660161601,
+                "todaysChgPct": 7.3544
+            },
+            {
+                "symbol": "SPY",
+                "sector": "",
+                "totalOrderQty": 4591,
+                "totalBuyOrderQty": 2270,
+                "buysPct": 49.44,
+                "sellsPct": 50.56,
+                "timestamp": 1660162200,
+                "todaysChgPct": 2.1004
+            },
+            {
+                "symbol": "COIN",
+                "sector": "Financials",
+                "totalOrderQty": 4458,
+                "totalBuyOrderQty": 2113,
+                "buysPct": 47.4,
+                "sellsPct": 52.6,
+                "timestamp": 1660161600,
+                "todaysChgPct": 7.3677
+            },
+            {
+                "symbol": "TTD",
+                "sector": "Information Technology",
+                "totalOrderQty": 4403,
+                "totalBuyOrderQty": 1589,
+                "buysPct": 36.09,
+                "sellsPct": 63.91,
+                "timestamp": 1660161600,
+                "todaysChgPct": 36.2202
+            },
+            {
+                "symbol": "RBLX",
+                "sector": "Communication Services",
+                "totalOrderQty": 4397,
+                "totalBuyOrderQty": 2268,
+                "buysPct": 51.58,
+                "sellsPct": 48.42,
+                "timestamp": 1660162200,
+                "todaysChgPct": 1.3939
+            },
+            {
+                "symbol": "META",
+                "sector": "Communication Services",
+                "totalOrderQty": 3433,
+                "totalBuyOrderQty": 1246,
+                "buysPct": 36.29,
+                "sellsPct": 63.71,
+                "timestamp": 1660161601,
+                "todaysChgPct": 5.8209
+            },
+            {
+                "symbol": "QQQ",
+                "sector": "",
+                "totalOrderQty": 3422,
+                "totalBuyOrderQty": 1723,
+                "buysPct": 50.35,
+                "sellsPct": 49.65,
+                "timestamp": 1660162500,
+                "todaysChgPct": 2.7911
+            },
+            {
+                "symbol": "MSFT",
+                "sector": "Information Technology",
+                "totalOrderQty": 2818,
+                "totalBuyOrderQty": 900,
+                "buysPct": 31.94,
+                "sellsPct": 68.06,
+                "timestamp": 1660161600,
+                "todaysChgPct": 2.43
+            },
+            {
+                "symbol": "SOXL",
+                "sector": "",
+                "totalOrderQty": 2802,
+                "totalBuyOrderQty": 1122,
+                "buysPct": 40.04,
+                "sellsPct": 59.96,
+                "timestamp": 1660162200,
+                "todaysChgPct": 12.5495
+            },
+            {
+                "symbol": "SHOP",
+                "sector": "Information Technology",
+                "totalOrderQty": 2750,
+                "totalBuyOrderQty": 1304,
+                "buysPct": 47.42,
+                "sellsPct": 52.58,
+                "timestamp": 1660162200,
+                "todaysChgPct": 10.5034
+            },
+            {
+                "symbol": "HLBZ",
+                "sector": "Industrials",
+                "totalOrderQty": 2626,
+                "totalBuyOrderQty": 1346,
+                "buysPct": 51.26,
+                "sellsPct": 48.74,
+                "timestamp": 1660161600,
+                "todaysChgPct": 2.7778
+            },
+            {
+                "symbol": "CLWT",
+                "sector": "Industrials",
+                "totalOrderQty": 2521,
+                "totalBuyOrderQty": 1226,
+                "buysPct": 48.63,
+                "sellsPct": 51.37,
+                "timestamp": 1660161600,
+                "todaysChgPct": 38.3562
+            },
+            {
+                "symbol": "PLUG",
+                "sector": "Industrials",
+                "totalOrderQty": 2461,
+                "totalBuyOrderQty": 921,
+                "buysPct": 37.42,
+                "sellsPct": 62.58,
+                "timestamp": 1660161600,
+                "todaysChgPct": 16.6599
+            },
+            {
+                "symbol": "GME",
+                "sector": "Consumer Discretionary",
+                "totalOrderQty": 2403,
+                "totalBuyOrderQty": 1457,
+                "buysPct": 60.63,
+                "sellsPct": 39.37,
+                "timestamp": 1660162200,
+                "todaysChgPct": 0.3963
+            },
+            {
+                "symbol": "INTC",
+                "sector": "Information Technology",
+                "totalOrderQty": 2311,
+                "totalBuyOrderQty": 1266,
+                "buysPct": 54.78,
+                "sellsPct": 45.22,
+                "timestamp": 1660161600,
+                "todaysChgPct": 2.4623
+            },
+            {
+                "symbol": "UVXY",
+                "sector": "",
+                "totalOrderQty": 2224,
+                "totalBuyOrderQty": 1443,
+                "buysPct": 64.88,
+                "sellsPct": 35.12,
+                "timestamp": 1660162203,
+                "todaysChgPct": -8.5743
+            },
+            {
+                "symbol": "RDBX",
+                "sector": "Communication Services",
+                "totalOrderQty": 2062,
+                "totalBuyOrderQty": 1557,
+                "buysPct": 75.51,
+                "sellsPct": 24.49,
+                "timestamp": 1660161600,
+                "todaysChgPct": -52.8571
+            },
+            {
+                "symbol": "DIS",
+                "sector": "Communication Services",
+                "totalOrderQty": 2040,
+                "totalBuyOrderQty": 1106,
+                "buysPct": 54.22,
+                "sellsPct": 45.78,
+                "timestamp": 1660162200,
+                "todaysChgPct": 3.9767
+            },
+            {
+                "symbol": "GOOGL",
+                "sector": "Communication Services",
+                "totalOrderQty": 2027,
+                "totalBuyOrderQty": 1055,
+                "buysPct": 52.05,
+                "sellsPct": 47.95,
+                "timestamp": 1660161601,
+                "todaysChgPct": 2.6323
+            },
+            {
+                "symbol": "F",
+                "sector": "Consumer Discretionary",
+                "totalOrderQty": 2024,
+                "totalBuyOrderQty": 1085,
+                "buysPct": 53.61,
+                "sellsPct": 46.39,
+                "timestamp": 1660162200,
+                "todaysChgPct": 3.0585
+            }
+        ]
+    }
+}

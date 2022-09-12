@@ -1,0 +1,66 @@
+[
+  {
+    "quotes": {
+      "count": 6,
+      "suggestions": [
+        {
+          "term": "APPLE ORD SHS",
+          "count": 15170357,
+          "desc": "APPLE ORD SHS",
+          "symbol": "AAPL",
+          "cusip": "037833100",
+          "url": "https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=AAPL"
+        },
+        {
+          "term": "APPLE HOSPITALITY REIT ORD SHS",
+          "count": 79336,
+          "desc": "APPLE HOSPITALITY REIT ORD SHS",
+          "symbol": "APLE",
+          "cusip": "03784Y200",
+          "url": "https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=APLE"
+        },
+        {
+          "term": "APPLE RUSH ORD SHS",
+          "count": 11766,
+          "desc": "APPLE RUSH ORD SHS",
+          "symbol": "APRU",
+          "cusip": "03785R204",
+          "url": "https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=APRU"
+        },
+        {
+          "term": "GOLDEN APPLE OIL AND GAS ORD SHS",
+          "count": 1644,
+          "desc": "GOLDEN APPLE OIL AND GAS ORD SHS",
+          "symbol": "GAPJ",
+          "cusip": "380795104",
+          "url": "https://eresearch.fidelity.com/eresearch/goto/evaluate/snapshot.jhtml?symbols=GAPJ"
+        },
+        {
+          "term": "APPLESEED FUND CL INVESTOR",
+          "count": 1590,
+          "desc": "APPLESEED FUND CL INVESTOR",
+          "symbol": "APPLX",
+          "cusip": "90470K370",
+          "url": "https://fundresearch.fidelity.com/mutual-funds/summary/90470K370"
+        },
+        {
+          "term": "APPLESEED FUND CL INSTITUTIONAL",
+          "count": 220,
+          "desc": "APPLESEED FUND CL INSTITUTIONAL",
+          "symbol": "APPIX",
+          "cusip": "90470K164",
+          "url": "https://fundresearch.fidelity.com/mutual-funds/summary/90470K164"
+        }
+      ]
+    }
+  },
+  {
+    "keywords": {
+      "count": 0,
+      "suggestions": []
+    }
+  },
+  {
+    "exception": []
+  }
+]

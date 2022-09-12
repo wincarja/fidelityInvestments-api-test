@@ -1,0 +1,11 @@
+In marketSentiment Json search for the object which
+shortTermDriection is Bullish, and then get the
+addInfoLink.
+
+Fetch "timestamp" value from Json object and convert
+to human readible format using Java built in function.
+(explore in google)
+
+
+
+
